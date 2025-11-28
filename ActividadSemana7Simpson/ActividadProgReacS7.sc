@@ -49,3 +49,11 @@ def resultado7: (Double, Double) =
   val res = f.integracion(0, 1)
   val err = res.errorAbs(0.785398)
   (res, err)
+  
+resultado1
+resultado2
+resultado3
+resultado4
+resultado5
+resultado6
+resultado7
